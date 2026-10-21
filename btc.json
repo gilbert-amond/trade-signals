@@ -1,8 +1,32 @@
 {
-  "id": "wait-20261021-2011",
+  "id": "btc-20261021-2057-short",
   "symbol": "BTC-USD",
-  "direction": "wait",
-  "validUntil": "2026-10-21T17:00:00Z",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 83700,
+      "to": 83750,
+      "sizePct": 0.4
+    },
+    {
+      "from": 83880,
+      "to": 83920,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84030,
+      "to": 84070,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 84400,
+  "targets": [
+    83121,
+    82558,
+    80564
+  ],
+  "invalidation": 84400,
+  "validUntil": "2026-10-21T17:57:00Z",
   "sourceUrl": "https://cwcount.com/",
-  "notes": "관망 — 83,719~84,070 반등 마무리 확인 후 숏 준비"
+  "notes": "초록 2파 y파 5파 마무리 구간(83,719 y=w ~ 84,070) 지정가 숏 대기. 구간 미도달 시 미체결 후 만료."
 }
