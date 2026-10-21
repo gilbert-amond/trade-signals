@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261022-0004-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 84447,
+      "to": 84520,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84520,
+      "to": 84590,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84590,
+      "to": 84658,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 85325,
+  "targets": [
+    82831,
+    81000,
+    79676
+  ],
+  "invalidation": 85325,
+  "validUntil": "2026-10-21T21:04:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.21.2026-2nd-Update.mp4",
+  "notes": "주황 2파 Y 목표 .618(84,447) 도달·84,658 고점. 84,447~84,658 숏, 일봉 .382(85,325) 위 손절, 목표 W 82,831 / X 81,000 / 1파 저점 79,676."
+}
