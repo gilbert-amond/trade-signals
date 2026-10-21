@@ -1,0 +1,8 @@
+{
+  "id": "wait-20261021-2011",
+  "symbol": "BTC-USD",
+  "direction": "wait",
+  "validUntil": "2026-10-21T17:00:00Z",
+  "sourceUrl": "https://cwcount.com/",
+  "notes": "관망 — 83,719~84,070 반등 마무리 확인 후 숏 준비"
+}
