@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-10-22T01:40:00.000Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-22T02:43:00.000Z",
   "enabled": true,
   "symbol": "BTCUSDT",
   "leverage": 3,
-  "maxNotionalUsdt": 300,
+  "maxNotionalUsdt": 3000,
   "entry": {
     "count": 3,
     "sizePct": [0.334, 0.333, 0.333]
