@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261022-0948-long",
+  "symbol": "BTC-USD",
+  "direction": "long",
+  "entries": [
+    {
+      "from": 84250,
+      "to": 84280,
+      "sizePct": 0.2
+    },
+    {
+      "from": 84150,
+      "to": 84200,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84050,
+      "to": 84100,
+      "sizePct": 0.4
+    }
+  ],
+  "stopLoss": 83900,
+  "targets": [
+    84856,
+    85325,
+    85744
+  ],
+  "invalidation": 83983,
+  "validUntil": "2026-10-22T06:48:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.22.2026.mp4",
+  "notes": "Gilbert 카운트: 84,856→83,983 4파 조정 종료, 마지막 5파 상승 동안만 롱. 5파 완료(84,856 돌파 후 꺾임) 시 숏 전환. 83,983 이탈 시 무효."
+}
