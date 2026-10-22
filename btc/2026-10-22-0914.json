@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261022-0915-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 84300,
+      "to": 84447,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84447,
+      "to": 84650,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84650,
+      "to": 84856,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 85325,
+  "targets": [
+    83608,
+    82535,
+    80564
+  ],
+  "invalidation": 85325,
+  "validUntil": "2026-10-22T06:15:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.22.2026.mp4",
+  "notes": "10/22 영상 반영: 주황 2파가 84,856에서 끝났을 가능성. 84,300~84,856 되돌림 숏, 일봉 .382(85,325) 위 손절, 목표 83,608 / 82,535 / 80,564."
+}
