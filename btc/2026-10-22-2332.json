@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261022-2335-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 83350,
+      "to": 83500,
+      "sizePct": 0.4
+    },
+    {
+      "from": 83500,
+      "to": 83700,
+      "sizePct": 0.4
+    },
+    {
+      "from": 83700,
+      "to": 83900,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 84400,
+  "targets": [
+    82535,
+    81196,
+    80125
+  ],
+  "invalidation": 84305,
+  "validUntil": "2026-10-22T20:35:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.22.2026-2nd-Update.mp4",
+  "notes": "만료 임박으로 같은 숏 계획 연장. 새 저점 81,264, 1시간봉 20선(82,878)·50선(83,045) 아래 하락 구조 유지, RSI 29 과매도라 반등 시 진입 구간 대기. 84,305 위로 가면 무효."
+}
