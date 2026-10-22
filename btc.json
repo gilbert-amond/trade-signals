@@ -1,32 +1,32 @@
 {
-  "id": "btc-20261022-0915-short",
+  "id": "btc-20261022-0948-long",
   "symbol": "BTC-USD",
-  "direction": "short",
+  "direction": "long",
   "entries": [
     {
-      "from": 84300,
-      "to": 84447,
-      "sizePct": 0.4
-    },
-    {
-      "from": 84447,
-      "to": 84650,
-      "sizePct": 0.4
-    },
-    {
-      "from": 84650,
-      "to": 84856,
+      "from": 84250,
+      "to": 84280,
       "sizePct": 0.2
+    },
+    {
+      "from": 84150,
+      "to": 84200,
+      "sizePct": 0.4
+    },
+    {
+      "from": 84050,
+      "to": 84100,
+      "sizePct": 0.4
     }
   ],
-  "stopLoss": 85325,
+  "stopLoss": 83900,
   "targets": [
-    83608,
-    82535,
-    80564
+    84856,
+    85325,
+    85744
   ],
-  "invalidation": 85325,
-  "validUntil": "2026-10-22T06:15:00Z",
+  "invalidation": 83983,
+  "validUntil": "2026-10-22T06:48:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.22.2026.mp4",
-  "notes": "10/22 영상 반영: 주황 2파가 84,856에서 끝났을 가능성. 84,300~84,856 되돌림 숏, 일봉 .382(85,325) 위 손절, 목표 83,608 / 82,535 / 80,564."
+  "notes": "Gilbert 카운트: 84,856→83,983 4파 조정 종료, 마지막 5파 상승 동안만 롱. 5파 완료(84,856 돌파 후 꺾임) 시 숏 전환. 83,983 이탈 시 무효."
 }
