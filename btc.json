@@ -1,32 +1,8 @@
 {
-  "id": "btc-20261022-0948-long",
+  "id": "wait-20261022-1045",
   "symbol": "BTC-USD",
-  "direction": "long",
-  "entries": [
-    {
-      "from": 84250,
-      "to": 84280,
-      "sizePct": 0.2
-    },
-    {
-      "from": 84150,
-      "to": 84200,
-      "sizePct": 0.4
-    },
-    {
-      "from": 84050,
-      "to": 84100,
-      "sizePct": 0.4
-    }
-  ],
-  "stopLoss": 83900,
-  "targets": [
-    84856,
-    85325,
-    85744
-  ],
-  "invalidation": 83983,
-  "validUntil": "2026-10-22T06:48:00Z",
+  "direction": "wait",
+  "validUntil": "2026-10-22T07:45:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.22.2026.mp4",
-  "notes": "Gilbert 카운트: 84,856→83,983 4파 조정 종료, 마지막 5파 상승 동안만 롱. 5파 완료(84,856 돌파 후 꺾임) 시 숏 전환. 83,983 이탈 시 무효."
+  "notes": "83,983 무효화·83,900 손절 이탈로 4파→5파 롱 카운트 실패. 영상 관점(주황 2파 84,856 완료, 빨간 3파 하락)으로 복귀하되 1시간봉 마감 확인 전까지 관망."
 }
