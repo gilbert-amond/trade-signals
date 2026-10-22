@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261022-1110-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 83350,
+      "to": 83500,
+      "sizePct": 0.4
+    },
+    {
+      "from": 83500,
+      "to": 83700,
+      "sizePct": 0.4
+    },
+    {
+      "from": 83700,
+      "to": 83900,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 84400,
+  "targets": [
+    82535,
+    81196,
+    80125
+  ],
+  "invalidation": 84305,
+  "validUntil": "2026-10-22T08:10:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.22.2026.mp4",
+  "notes": "1시간봉(10시)이 83,608 아래 83,327 마감 → 영상대로 주황 2파 84,856 완료 확인. 고점 84,856→84,305 낮아짐. 되돌림 숏, 84,305 위로 가면 무효."
+}
