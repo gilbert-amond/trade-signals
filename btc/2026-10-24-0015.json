@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261024-0016-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 82250,
+      "to": 82400,
+      "sizePct": 0.4
+    },
+    {
+      "from": 82400,
+      "to": 82650,
+      "sizePct": 0.4
+    },
+    {
+      "from": 82650,
+      "to": 82815,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 84000,
+  "targets": [
+    80789,
+    80125,
+    79676
+  ],
+  "invalidation": 83974,
+  "validUntil": "2026-10-23T21:15:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-1-HOUR-10.23.2026.png",
+  "notes": "만료 임박 갱신(내용 동일): 분홍 2파 반등 목표 .382 82,336~.5 82,815에서 숏 대기. 현재 81,4xx 횡보(80,943~81,962), 1시간봉 50선 82,348·6시간봉 20/50선 82,274/82,267 저항. 83,974 위면 무효."
+}
