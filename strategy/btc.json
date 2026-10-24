@@ -1,17 +1,17 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-22T03:57:00.000Z",
+  "updatedAt": "2026-10-24T03:00:00.000Z",
   "enabled": true,
   "symbol": "BTCUSDT",
   "leverage": 10,
-  "maxNotionalUsdt": 3000,
-  "minOrderSizeBtc": 0.005,
+  "maxNotionalUsdt": 8000,
+  "minOrderSizeBtc": 0.01,
   "entry": {
-    "count": 3,
-    "sizePct": [0.4, 0.4, 0.2]
+    "count": 10,
+    "sizePct": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
   },
   "takeProfit": {
-    "share": [0.334, 0.333, 0.333]
+    "share": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
   },
   "stopLossRequired": true,
   "onOppositeSignal": "close_then_reverse",
