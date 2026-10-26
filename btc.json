@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261026-2140-short",
+  "id": "btc-20261027-0150-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     74614
   ],
   "invalidation": 82535,
-  "validUntil": "2026-10-26T18:40:00Z",
+  "validUntil": "2026-10-27T00:50:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.26.2026-2nd-Update.mp4",
-  "notes": "cwcount 10.26 2nd Update 반영: 분홍1파 79,107 완료, 분홍2파 반등 진행(a 80,925, b 79,973), 목표 .382 81,303~.5 81,981에서 숏, 손절 82,540(회색4 82,535 위). 현재 약 80,377."
+  "notes": "만료 임박 재게시(동일 설정): cwcount 10.26 2nd Update 분홍2파 반등 목표 .382 81,303~.5 81,981에서 숏, 손절 82,540. 현재 약 79,790, 반등 미도달."
 }
