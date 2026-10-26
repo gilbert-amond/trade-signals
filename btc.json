@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261026-0903-short",
+  "id": "btc-20261026-1302-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     74887
   ],
   "invalidation": 81962,
-  "validUntil": "2026-10-26T06:00:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-1-HOUR-10.24.2026.png",
-  "notes": "만료 임박 재게시(조건 동일): 분홍3파 하락 중. 현재 약 80,044, 24h 저점 79,732. 1h 20·50선 80,424/80,510·6h 20·50선 81,556/81,792 아래, 1h RSI 40. 80,850~81,745 반등 숏, 손절 82,000."
+  "validUntil": "2026-10-26T10:00:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-1-HOUR-10.26.2026.png",
+  "notes": "만료 임박 재게시(조건 동일): 분홍3파 하락 중. 현재 약 79,486, 24h 저점 79,255. 1h 20·50선 80,243/80,420·6h 20·50선 81,404/81,723 아래, 1h RSI 31. 80,850~81,745 반등 숏, 손절 82,000."
 }
