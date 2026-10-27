@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261027-1625-short",
+  "id": "btc-20261027-2030-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     74614
   ],
   "invalidation": 82535,
-  "validUntil": "2026-10-27T13:25:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.27.2026.mp4",
-  "notes": "만료 임박 재게시(동일 설정): cwcount 10.27 분홍2파 초록 c 반등 .382 81,303~.5 81,981에서 숏, 손절 82,540. 현재 약 79,564, 저점 79,426으로 삼각형 c(79,544) 하향 이탈, 1h·6h 이평 하향 정렬."
+  "validUntil": "2026-10-27T17:30:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-1-HOUR-10.27.2026.png",
+  "notes": "만료 임박 재게시(동일 설정): cwcount 10.27 차트/2nd Update 영상 기준 초록 b 79,365 종료, 초록 c 반등 .382 81,303~.5 81,981에서 숏, 손절 82,540. 현재 약 79,750, 6h 이평 하향 정렬."
 }
