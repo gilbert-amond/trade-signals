@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261029-2155-short",
+  "id": "btc-20261030-0200-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     74614
   ],
   "invalidation": 82535,
-  "validUntil": "2026-10-29T18:55:00Z",
+  "validUntil": "2026-10-29T23:00:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-1-HOUR-10.29.2026.png",
-  "notes": "만료 임박 재게시(동일 설정): cwcount 10.29 영상/1H·4H·일봉 차트 기준 분홍 2 81,715 완료, 분홍 3 하락 진행. 1시간봉 가격<MA20 80,436<MA50 80,583, RSI 29.7. 숏, 손절 82,540. 현재 약 79,940."
+  "notes": "만료 임박 재게시(동일 설정): cwcount 10.29 영상/차트 기준 분홍 3 하락. 81,890 고점 후 1h 종가 81,173으로 밀림, 1h RSI 58. 숏, 손절 82,540. 현재 약 81,140."
 }
