@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261030-1930-short",
+  "id": "btc-20261031-0833-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     73200
   ],
   "invalidation": 81890,
-  "validUntil": "2026-10-31T01:30:00Z",
+  "validUntil": "2026-10-31T05:30:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-1-HOUR-10.30.2026.png",
-  "notes": "만료 임박 재게시(값 동일): cwcount 1H/4H 10.30 차트, 초록 2 반등 .382 78,435~.618 79,755 숏 대기, 손절 81,950. 1h MA20 78,705/MA50 79,815, 6h MA20 80,031 아래, RSI 37."
+  "notes": "만료 임박 재게시(값 동일): cwcount 1H/4H 10.30 차트, 초록 2 반등 .382 78,435~.618 79,755 숏 대기, 손절 81,950. 1차 76,301 닿음. 1h MA20 77,333/MA50 78,786, 6h MA20 79,692 아래, 1h RSI 42."
 }
