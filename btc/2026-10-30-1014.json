@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261030-1014-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 81100,
+      "to": 81303,
+      "sizePct": 0.2
+    },
+    {
+      "from": 81303,
+      "to": 81650,
+      "sizePct": 0.4
+    },
+    {
+      "from": 81650,
+      "to": 81981,
+      "sizePct": 0.4
+    }
+  ],
+  "stopLoss": 82540,
+  "targets": [
+    79973,
+    79107,
+    74614
+  ],
+  "invalidation": 82535,
+  "validUntil": "2026-10-30T07:15:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/10/BTC-10.30.2026.mp4",
+  "notes": "만료 임박 재게시(동일 설정): cwcount 10.30 영상 기준 분홍 2(81,890) 완료, 분홍 3 하락 중 초록 1 진행. 현재가 77,143, 1h MA20 79,726·MA50 80,363 아래, 12h 저점 76,600. 숏, 손절 82,540."
+}
