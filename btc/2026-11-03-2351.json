@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261103-2351-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 77200,
+      "to": 77400,
+      "sizePct": 0.4
+    },
+    {
+      "from": 77400,
+      "to": 77550,
+      "sizePct": 0.4
+    },
+    {
+      "from": 77550,
+      "to": 77750,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 78850,
+  "targets": [
+    76141,
+    74887,
+    73200
+  ],
+  "invalidation": 78762,
+  "validUntil": "2026-11-03T20:51:58Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.3.2026-2nd-Update.mp4",
+  "notes": "cwcount 11.3 2nd Update: 버건디2 77745 완료→3파 하락. 진입 fib .382~.618(직접 차트), 손절 초록2 위. T1 구신호 76301 닿음→새 T1 76141."
+}
