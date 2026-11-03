@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261103-0700-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 78435,
+      "to": 78765,
+      "sizePct": 0.4
+    },
+    {
+      "from": 78765,
+      "to": 79095,
+      "sizePct": 0.4
+    },
+    {
+      "from": 79095,
+      "to": 79755,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 81950,
+  "targets": [
+    76301,
+    74887,
+    73200
+  ],
+  "invalidation": 81890,
+  "validUntil": "2026-11-03T08:01:42Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.3.2026.mp4",
+  "notes": "만료 임박 재게시(값 동일): cwcount 11.3 video·1H/4H, burgundy2 반등 후 하락 숏. T1 76301 닿음. 11:01 KST 가격~76969, bounceHigh 77186<.382 77374, low 76516.6. 1h MA20 77316/MA50 77680 RSI~33, 6h MA20 77822/MA50 79651 RSI~49."
+}
