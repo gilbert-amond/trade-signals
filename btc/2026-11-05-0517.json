@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261105-0517-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 79900,
+      "to": 80150,
+      "sizePct": 0.4
+    },
+    {
+      "from": 80150,
+      "to": 80450,
+      "sizePct": 0.4
+    },
+    {
+      "from": 80450,
+      "to": 80800,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 81300,
+  "targets": [
+    76141,
+    72090,
+    68500
+  ],
+  "invalidation": 81131,
+  "validUntil": "2026-11-05T02:17:01Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026-2nd-Update.mp4",
+  "notes": "1h 종가 전환 확인(04:00 KST C=79915 < post-bounce 1h L 80139). green2 .5/.618 완료·고점~81131 후 green3 숏. 무효화 81131(바운스 고점 재탈환). 확인 76141. T3≈68500. 손절 81300."
+}
