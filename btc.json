@@ -1,8 +1,32 @@
 {
-  "id": "wait-20261105-0457",
+  "id": "btc-20261105-0517-short",
   "symbol": "BTC-USD",
-  "direction": "wait",
-  "validUntil": "2026-11-05T01:57:21Z",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 79900,
+      "to": 80150,
+      "sizePct": 0.4
+    },
+    {
+      "from": 80150,
+      "to": 80450,
+      "sizePct": 0.4
+    },
+    {
+      "from": 80450,
+      "to": 80800,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 81300,
+  "targets": [
+    76141,
+    72090,
+    68500
+  ],
+  "invalidation": 81131,
+  "validUntil": "2026-11-05T02:17:01Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026-2nd-Update.mp4",
-  "notes": "11.4 2nd Update: green2 익스팬디드 플랫 c(.5/.618 닿음, 고점~81131). 1h 전환 후 green3 숏 대기. 구조 참고 81890. 손절·진입 미확정 → 관망. forming 1h L~79856 < post-bounce 1h L 80139, 종가 전환 미확정."
+  "notes": "1h 종가 전환 확인(04:00 KST C=79915 < post-bounce 1h L 80139). green2 .5/.618 완료·고점~81131 후 green3 숏. 무효화 81131(바운스 고점 재탈환). 확인 76141. T3≈68500. 손절 81300."
 }
