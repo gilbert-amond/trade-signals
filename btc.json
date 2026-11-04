@@ -1,8 +1,8 @@
 {
-  "id": "wait-20261105-0040",
+  "id": "wait-20261105-0457",
   "symbol": "BTC-USD",
   "direction": "wait",
-  "validUntil": "2026-11-04T21:40:57Z",
+  "validUntil": "2026-11-05T01:57:21Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026-2nd-Update.mp4",
-  "notes": "11.4 2nd Update: green2 익스팬디드 플랫 c 진행(.5/.618 닿음, 고점~81131). 1h 전환 후 green3 숏 대기. 구조 참고 81890. 손절·진입 미확정 → 관망."
+  "notes": "11.4 2nd Update: green2 익스팬디드 플랫 c(.5/.618 닿음, 고점~81131). 1h 전환 후 green3 숏 대기. 구조 참고 81890. 손절·진입 미확정 → 관망. forming 1h L~79856 < post-bounce 1h L 80139, 종가 전환 미확정."
 }
