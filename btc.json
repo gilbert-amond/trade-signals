@@ -1,32 +1,8 @@
 {
-  "id": "btc-20261104-2005-short",
+  "id": "wait-20261104-2036",
   "symbol": "BTC-USD",
-  "direction": "short",
-  "entries": [
-    {
-      "from": 77200,
-      "to": 77400,
-      "sizePct": 0.4
-    },
-    {
-      "from": 77400,
-      "to": 77550,
-      "sizePct": 0.4
-    },
-    {
-      "from": 77550,
-      "to": 77750,
-      "sizePct": 0.2
-    }
-  ],
-  "stopLoss": 78850,
-  "targets": [
-    76141,
-    74887,
-    72090
-  ],
-  "invalidation": 78762,
-  "validUntil": "2026-11-04T17:05:34Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026.mp4",
-  "notes": "버건디2 완료 후 3파 하락 관점 유지. 확인 76141. 무효화 78762. T1 76141 닿음. T3≈72090. grey2 반등 진행 중. validUntil 연장."
+  "direction": "wait",
+  "validUntil": "2026-11-04T17:36:07Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026-2nd-Update.mp4",
+  "notes": "11.4 2nd Update: green2 익스팬디드 플랫 진행(burgundy a 78762 / b 75600 / c grey1-5 상승). 목표 .5 79095~.618 79755 후 green3 하락. 손절·진입 미확정 → 관망. 구조적 상단 참고 81890."
 }
