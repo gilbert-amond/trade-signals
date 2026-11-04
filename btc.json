@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261104-1136-short",
+  "id": "btc-20261104-1554-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     72090
   ],
   "invalidation": 78762,
-  "validUntil": "2026-11-04T08:36:49Z",
+  "validUntil": "2026-11-04T12:54:36Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026.mp4",
-  "notes": "새 영상 BTC-11.4: 버건디2@77981 완료→3파 하락 관점. 확인 76141 하향 돌파. 무효화 78762. T3≈72090."
+  "notes": "버건디2 완료 후 3파 하락 관점 유지. 확인 76141. 무효화 78762. T1 76141 닿음. T3≈72090."
 }
