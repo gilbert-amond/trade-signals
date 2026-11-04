@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261104-0812-short",
+  "id": "btc-20261104-1136-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -23,10 +23,10 @@
   "targets": [
     76141,
     74887,
-    73200
+    72090
   ],
   "invalidation": 78762,
-  "validUntil": "2026-11-04T05:12:02Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.3.2026-2nd-Update.mp4",
-  "notes": "2시간 현황: 숏 유지. 버건디2 알림 후 3파 관점, 무효화 78762 미돌파. T1 76141 미도달. 만료 임박→재게시."
+  "validUntil": "2026-11-04T08:36:49Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.4.2026.mp4",
+  "notes": "새 영상 BTC-11.4: 버건디2@77981 완료→3파 하락 관점. 확인 76141 하향 돌파. 무효화 78762. T3≈72090."
 }
