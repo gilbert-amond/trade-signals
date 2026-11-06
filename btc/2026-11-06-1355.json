@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261106-1355-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 79900,
+      "to": 80150,
+      "sizePct": 0.4
+    },
+    {
+      "from": 80150,
+      "to": 80450,
+      "sizePct": 0.4
+    },
+    {
+      "from": 80450,
+      "to": 80800,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 81300,
+  "targets": [
+    76141,
+    72090,
+    68500
+  ],
+  "invalidation": 81131,
+  "validUntil": "2026-11-06T10:55:06Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.6.2026.png",
+  "notes": "숏 유지·validUntil 갱신(<2h). 1h LH/HL·RSI~26.6 below MA20. 현재가~75624. T76141(hit)/72090/68500. SL81300 inv81131."
+}
