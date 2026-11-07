@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261107-1204-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 77200,
+      "to": 77650,
+      "sizePct": 0.4
+    },
+    {
+      "from": 77650,
+      "to": 78000,
+      "sizePct": 0.4
+    },
+    {
+      "from": 78000,
+      "to": 78400,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 81300,
+  "targets": [
+    74722,
+    72950,
+    68500
+  ],
+  "invalidation": 81131,
+  "validUntil": "2026-11-07T09:04:04Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.7.2026.mp4",
+  "notes": "11.7 영상 Preferred: 74722=분홍1 후 2파 반등(~77656)→3파~72950. 숏. T76141 이전 닿음."
+}
