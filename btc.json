@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261107-1610-short",
+  "id": "btc-20261107-2018-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     68500
   ],
   "invalidation": 81131,
-  "validUntil": "2026-11-07T13:10:00Z",
+  "validUntil": "2026-11-07T17:18:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.7.2026.mp4",
   "notes": "만료 임박 재게시(내용 동일). 11.7 영상 Preferred: 74722 분홍1 후 2파 반등(~77656) 대기→3파 ~72950. 숏."
 }
