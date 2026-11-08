@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261109-0056-short",
+  "id": "btc-20261109-0459-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     68500
   ],
   "invalidation": 81131,
-  "validUntil": "2026-11-08T21:56:00Z",
+  "validUntil": "2026-11-09T01:59:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.7.2026.mp4",
   "notes": "분홍 2파 반등 구간(아직 미진입). 11.7 영상 Preferred: 74722 분홍1 저점 후 2파 반등(~77656) 후 3파 ~72950. 만료 임박으로 갱신."
 }
