@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261109-1704-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 77200,
+      "to": 77650,
+      "sizePct": 0.4
+    },
+    {
+      "from": 77650,
+      "to": 78000,
+      "sizePct": 0.4
+    },
+    {
+      "from": 78000,
+      "to": 78400,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 81300,
+  "targets": [
+    74722,
+    72950,
+    68500
+  ],
+  "invalidation": 81131,
+  "validUntil": "2026-11-09T14:04:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.9.2026.mp4",
+  "notes": "11.9 영상·차트 Preferred: 73,477=분홍1 저점, 분홍2 반등(.5 77,303/.618 78,206) 구간 숏 진입, 이후 분홍3·주황3 하락. 만료 임박 갱신."
+}
