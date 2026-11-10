@@ -1,32 +1,32 @@
 {
-  "id": "btc-20261110-2025-short",
+  "id": "btc-20261111-0105-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
     {
-      "from": 77200,
-      "to": 77650,
+      "from": 73636,
+      "to": 74100,
       "sizePct": 0.4
     },
     {
-      "from": 77650,
-      "to": 78000,
+      "from": 74100,
+      "to": 74500,
       "sizePct": 0.4
     },
     {
-      "from": 78000,
-      "to": 78400,
+      "from": 74500,
+      "to": 74900,
       "sizePct": 0.2
     }
   ],
-  "stopLoss": 81300,
+  "stopLoss": 75300,
   "targets": [
-    74722,
-    72950,
+    72770,
+    71300,
     68500
   ],
-  "invalidation": 81131,
-  "validUntil": "2026-11-10T17:25:00Z",
+  "invalidation": 74903,
+  "validUntil": "2026-11-10T22:05:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.10.2026-2nd-Update.mp4",
-  "notes": "11.10 2nd Update: 분홍2=초록 abc, b 삼각형 후 c 반등(.5 77,303~.618 78,206) 구간 숏, 이후 분홍3·주황3 하락. 1H·6H MA20<MA50. 만료 임박 갱신(값 동일)."
+  "notes": "00:00 KST 1H봉 73,131 마감으로 b 삼각형 하단 73,636 이탈 확인. c 반등 대신 분홍3 하락 시작 가능성, 73,636~74,900 되돌림 숏. 1H·6H MA20<MA50. 자료와 다르게 직접 판단."
 }
