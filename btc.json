@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261110-0550-short",
+  "id": "btc-20261110-0955-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     68500
   ],
   "invalidation": 81131,
-  "validUntil": "2026-11-10T02:50:00Z",
+  "validUntil": "2026-11-10T06:55:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.9.2026-2nd-Update.mp4",
   "notes": "11.9 2nd Update: 분홍1 73,477 후 분홍2 반등(초록 abc) 구간 숏 진입, 이후 분홍3·주황3 하락. 6H MA20/50 하향 정렬. 만료 임박 갱신(값 동일)."
 }
