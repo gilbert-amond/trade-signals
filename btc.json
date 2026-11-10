@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261110-1525-short",
+  "id": "btc-20261110-2025-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     68500
   ],
   "invalidation": 81131,
-  "validUntil": "2026-11-10T12:25:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.10.2026.mp4",
-  "notes": "11.10 영상·1H/4H 차트: 분홍1 73,477 후 분홍2 반등(.5 77,303~.618 78,206) 구간 숏, 이후 분홍3·주황3 하락. 1H·6H MA20<MA50 하향 정렬. 만료 임박 갱신(값 동일)."
+  "validUntil": "2026-11-10T17:25:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.10.2026-2nd-Update.mp4",
+  "notes": "11.10 2nd Update: 분홍2=초록 abc, b 삼각형 후 c 반등(.5 77,303~.618 78,206) 구간 숏, 이후 분홍3·주황3 하락. 1H·6H MA20<MA50. 만료 임박 갱신(값 동일)."
 }
