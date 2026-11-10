@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261111-0105-short",
+  "id": "btc-20261111-0510-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     68500
   ],
   "invalidation": 74903,
-  "validUntil": "2026-11-10T22:05:00Z",
+  "validUntil": "2026-11-11T02:10:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.10.2026-2nd-Update.mp4",
-  "notes": "00:00 KST 1H봉 73,131 마감으로 b 삼각형 하단 73,636 이탈 확인. c 반등 대신 분홍3 하락 시작 가능성, 73,636~74,900 되돌림 숏. 1H·6H MA20<MA50. 자료와 다르게 직접 판단."
+  "notes": "0105 숏 신호 만료 임박으로 같은 조건 연장. 가격 73,300 부근, 73,636 아래 유지, 1H MA20 74,093<MA50 74,490, 6H MA20 75,122<MA50 76,788. 자료와 다르게 직접 판단."
 }
