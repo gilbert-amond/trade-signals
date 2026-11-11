@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261111-1451-short",
+  "id": "btc-20261111-1913-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     68900
   ],
   "invalidation": 81130,
-  "validUntil": "2026-11-11T11:51:00Z",
+  "validUntil": "2026-11-11T16:13:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.11.2026.mp4",
-  "notes": "cwcount 11.11 영상 기준 마젠타 2파 반등(c파) 76,400~78,206 숏 재설정(만료 임박으로 같은 조건 재게시). 손절 79,600 직접 계산."
+  "notes": "cwcount 11.11 영상 기준 마젠타 2파 반등(c파) 76,400~78,206 숏(만료 임박으로 같은 조건 재게시). 손절 79,600 직접 계산."
 }
