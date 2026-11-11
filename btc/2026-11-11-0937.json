@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261111-0936-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 73636,
+      "to": 74100,
+      "sizePct": 0.4
+    },
+    {
+      "from": 74100,
+      "to": 74500,
+      "sizePct": 0.4
+    },
+    {
+      "from": 74500,
+      "to": 74900,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 75300,
+  "targets": [
+    72770,
+    71300,
+    68500
+  ],
+  "invalidation": 74903,
+  "validUntil": "2026-11-11T06:36:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.10.2026-2nd-Update.mp4",
+  "notes": "0510 숏 신호 만료 임박으로 같은 조건 연장. 가격 73,590 부근, 1H MA20 73,901<MA50 74,393 RSI 44, 6H MA20 75,044<MA50 76,652 RSI 34. 자료와 다르게 직접 판단."
+}
