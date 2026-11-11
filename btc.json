@@ -1,32 +1,32 @@
 {
-  "id": "btc-20261111-0936-short",
+  "id": "btc-20261111-1050-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
     {
-      "from": 73636,
-      "to": 74100,
+      "from": 76400,
+      "to": 76850,
       "sizePct": 0.4
     },
     {
-      "from": 74100,
-      "to": 74500,
+      "from": 76850,
+      "to": 77303,
       "sizePct": 0.4
     },
     {
-      "from": 74500,
-      "to": 74900,
+      "from": 77303,
+      "to": 78206,
       "sizePct": 0.2
     }
   ],
-  "stopLoss": 75300,
+  "stopLoss": 79600,
   "targets": [
-    72770,
-    71300,
-    68500
+    73477,
+    72643,
+    68900
   ],
-  "invalidation": 74903,
-  "validUntil": "2026-11-11T06:36:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.10.2026-2nd-Update.mp4",
-  "notes": "0510 숏 신호 만료 임박으로 같은 조건 연장. 가격 73,590 부근, 1H MA20 73,901<MA50 74,393 RSI 44, 6H MA20 75,044<MA50 76,652 RSI 34. 자료와 다르게 직접 판단."
+  "invalidation": 81130,
+  "validUntil": "2026-11-11T07:50:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.11.2026.mp4",
+  "notes": "cwcount 11.11 영상: 마젠타 1파 73,477 후 마젠타 2파 반등(c파) 76,400~78,206 목표, 이후 마젠타·주황 3파 하락. 2파 되돌림 구간에서 숏으로 재설정. 손절 79,600은 .786(79,492) 위 직접 계산."
 }
