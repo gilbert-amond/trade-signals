@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261112-1903-short",
+  "id": "btc-20261112-2328-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
@@ -26,7 +26,7 @@
     70950
   ],
   "invalidation": 81130,
-  "validUntil": "2026-11-12T16:03:00Z",
+  "validUntil": "2026-11-12T20:28:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.12.2026.mp4",
-  "notes": "cwcount 11.12 영상 기준 버건디 4·5 상승으로 마젠타 2파(초록 c) 반등 후 마젠타·주황 3파 하락. 76,400~78,206 숏, 3차 목표 1H 화살표 약 70,950"
+  "notes": "1903 신호 만료 임박으로 같은 조건 재게시. cwcount 11.12 영상: 마젠타 2 반등(76,400~78,206) 후 3파 하락 목표 70,950. 1H/6H MA 하향 정렬, 가격 ~71,846."
 }
