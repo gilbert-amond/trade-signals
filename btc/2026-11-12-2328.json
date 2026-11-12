@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261112-2328-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 76400,
+      "to": 76850,
+      "sizePct": 0.4
+    },
+    {
+      "from": 76850,
+      "to": 77303,
+      "sizePct": 0.4
+    },
+    {
+      "from": 77303,
+      "to": 78206,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 79600,
+  "targets": [
+    73477,
+    72643,
+    70950
+  ],
+  "invalidation": 81130,
+  "validUntil": "2026-11-12T20:28:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.12.2026.mp4",
+  "notes": "1903 신호 만료 임박으로 같은 조건 재게시. cwcount 11.12 영상: 마젠타 2 반등(76,400~78,206) 후 3파 하락 목표 70,950. 1H/6H MA 하향 정렬, 가격 ~71,846."
+}
