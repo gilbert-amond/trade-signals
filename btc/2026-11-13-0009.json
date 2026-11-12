@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261113-0010-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 71800,
+      "to": 72300,
+      "sizePct": 0.4
+    },
+    {
+      "from": 72300,
+      "to": 72643,
+      "sizePct": 0.4
+    },
+    {
+      "from": 72643,
+      "to": 73367,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 74800,
+  "targets": [
+    70950,
+    67084,
+    66000
+  ],
+  "invalidation": 74737,
+  "validUntil": "2026-11-12T21:10:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.12.2026-2nd-Update.mp4",
+  "notes": "cwcount 11.12 2nd Update: 분홍 2파 74,737 러닝 플랫 완료, 분홍 3파(3 of 3 of 3) 하락. 되돌림 반등(직접 계산 .236~.382) 숏, 손절 74,737 위."
+}
