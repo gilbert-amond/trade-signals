@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261114-1305-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 68300,
+      "to": 68700,
+      "sizePct": 0.4
+    },
+    {
+      "from": 68700,
+      "to": 69300,
+      "sizePct": 0.4
+    },
+    {
+      "from": 69300,
+      "to": 69700,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 70300,
+  "targets": [
+    67555,
+    66550,
+    65700
+  ],
+  "invalidation": 70141,
+  "validUntil": "2026-11-14T10:05:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.14.2026.png",
+  "notes": "cwcount 11.14 1H/4H: 초록5→분홍3 마무리 후 얕은 분홍4 반등에서 숏. 진입은 분홍3(74,737→66,550) .236~.382 되돌림(직접 계산), 손절 70,141(초록1 저점) 위"
+}
