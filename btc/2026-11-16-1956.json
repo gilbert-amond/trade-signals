@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261116-1955-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 65000,
+      "to": 65200,
+      "sizePct": 0.4
+    },
+    {
+      "from": 65200,
+      "to": 65480,
+      "sizePct": 0.4
+    },
+    {
+      "from": 65480,
+      "to": 65800,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 66250,
+  "targets": [
+    63725,
+    61946,
+    61637
+  ],
+  "invalidation": 66100,
+  "validUntil": "2026-11-17T01:55:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.16.2026.mp4",
+  "notes": "cwcount 11.16 영상: 분홍4 66,100 완료, 분홍5 하락(초록3 진행). 진입 65,000~65,800 되돌림 숏, 손절 66,250(무효화 66,100 위). 목표 63,725/61,946/61,637(초록3=1.618x 직접 계산). 1550 신호 만료 임박으로 동일 조건 재게시"
+}
