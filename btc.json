@@ -1,32 +1,32 @@
 {
-  "id": "btc-20261116-1043-short",
+  "id": "btc-20261116-1120-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
     {
-      "from": 68300,
-      "to": 68700,
+      "from": 65000,
+      "to": 65200,
       "sizePct": 0.4
     },
     {
-      "from": 68700,
-      "to": 69300,
+      "from": 65200,
+      "to": 65480,
       "sizePct": 0.4
     },
     {
-      "from": 69300,
-      "to": 69700,
+      "from": 65480,
+      "to": 65800,
       "sizePct": 0.2
     }
   ],
-  "stopLoss": 70300,
+  "stopLoss": 66250,
   "targets": [
-    67555,
-    66550,
-    65700
+    63725,
+    61946,
+    61637
   ],
-  "invalidation": 70141,
-  "validUntil": "2026-11-16T07:43:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.14.2026.png",
-  "notes": "cwcount 11.14 1H/4H: 분홍4 반등에서 숏. 진입 68,300~69,700(직접 계산 되돌림), 손절 70,300(무효화 70,141 위). 0642 신호 만료 임박으로 같은 조건 재게시"
+  "invalidation": 66100,
+  "validUntil": "2026-11-16T08:20:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.16.2026.mp4",
+  "notes": "cwcount 11.16 영상: 분홍4 66,100 완료, 분홍5 하락(초록3 진행). 진입 65,000~65,800 되돌림 숏, 손절 66,250(무효화 66,100 위). 목표 63,725/61,946/61,637(초록3=1.618x 직접 계산)"
 }
