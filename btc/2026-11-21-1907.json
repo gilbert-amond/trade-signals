@@ -1,0 +1,31 @@
+{
+  "id": "btc-20261121-1910-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 58500,
+      "to": 59000,
+      "sizePct": 0.4
+    },
+    {
+      "from": 59000,
+      "to": 59600,
+      "sizePct": 0.4
+    },
+    {
+      "from": 59600,
+      "to": 60400,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 60900,
+  "targets": [
+    55106,
+    53000
+  ],
+  "invalidation": 62000,
+  "validUntil": "2026-11-21T16:10:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.21.2026.png",
+  "notes": "11.21 1H 차트: 55,106=버건디3 저점, 지금 버건디4 반등 후 하락(초록3·분홍5·주황3, 4H 목표 53,000). 진입=버건디3(64,023→55,106) .382 58,512~.618 60,617 부근, 손절 60,900(직접 계산), 무효화 62,000(버건디1 저점, 4파 겹침)"
+}
