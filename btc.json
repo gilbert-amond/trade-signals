@@ -1,30 +1,31 @@
 {
-  "id": "btc-20261121-1550-short",
+  "id": "btc-20261121-1830-short",
   "symbol": "BTC-USD",
   "direction": "short",
   "entries": [
     {
-      "from": 61791,
-      "to": 61938,
+      "from": 58400,
+      "to": 58700,
       "sizePct": 0.4
     },
     {
-      "from": 61938,
-      "to": 62085,
+      "from": 58700,
+      "to": 59000,
       "sizePct": 0.4
     },
     {
-      "from": 62085,
-      "to": 62300,
+      "from": 59000,
+      "to": 59200,
       "sizePct": 0.2
     }
   ],
-  "stopLoss": 62650,
+  "stopLoss": 59700,
   "targets": [
-    57730
+    55106,
+    53000
   ],
-  "invalidation": 62562,
-  "validUntil": "2026-11-21T12:50:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.20.2026.png",
-  "notes": "1148 신호 만료 임박(17:48 KST)으로 같은 조건 재게시. 55,106 저점 후 ~57,450 반등 중, 1H MA20 58,929·MA50 61,137 아래, 6H RSI 28. 반등 시 61,791~62,300 숏 재진입용. 손절 62,650·무효화 62,562(직접 계산)"
+  "invalidation": 59282,
+  "validUntil": "2026-11-21T15:30:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.21.2026.mp4",
+  "notes": "11.21 영상: 55,106=초록3 저점, 지금 초록4 반등 후 초록5로 55,106 아래(버건디3 완성), 이후 목표 53,000(5파=1.618x1파). 진입은 초록3(59,282→55,106) .786 58,388 위~59,200, 손절 59,700·무효화 59,282(직접 계산)"
 }
