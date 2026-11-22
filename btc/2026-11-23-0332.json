@@ -1,0 +1,8 @@
+{
+  "id": "wait-20261123-0331",
+  "symbol": "BTC-USD",
+  "direction": "wait",
+  "validUntil": "2026-11-23T00:31:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.21.2026.png",
+  "notes": "1H 이평 상승 정렬(MA20 60,138>MA50 59,323) vs 6H 하락(MA20 61,149<MA50 65,414)·62,000(버건디1 저점) 아래 — 근거 엇갈려 관망 유지(2327 신호 만료 임박 갱신)"
+}
