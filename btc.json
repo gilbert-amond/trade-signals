@@ -1,5 +1,5 @@
 {
-  "id": "btc-20261123-1831-long",
+  "id": "btc-20261123-2236-long",
   "symbol": "BTC-USD",
   "direction": "long",
   "entries": [
@@ -26,7 +26,7 @@
     65047
   ],
   "invalidation": 58636,
-  "validUntil": "2026-11-23T15:31:00Z",
+  "validUntil": "2026-11-23T19:36:00Z",
   "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.23.2026.mp4",
   "notes": "만료 임박 갱신(같은 값). cwcount 11.23: 주황 4파 반등(W60,883-X58,636-Y 진행), 목표 .382 65,047 후 주황 5파 하락 예상. 진입은 58,636→61,382 되돌림 .236~.618(직접 계산), 58,636 이탈 시 무효"
 }
