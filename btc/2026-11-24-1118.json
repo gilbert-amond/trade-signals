@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261124-1118-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 62464,
+      "to": 62859,
+      "sizePct": 0.4
+    },
+    {
+      "from": 62859,
+      "to": 63254,
+      "sizePct": 0.4
+    },
+    {
+      "from": 63254,
+      "to": 63817,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 64800,
+  "targets": [
+    58636,
+    55106,
+    52900
+  ],
+  "invalidation": 64534,
+  "validUntil": "2026-11-24T08:18:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.24.2026.mp4",
+  "notes": "11.24 영상 반영·만료 임박 갱신(값 동일). 주황 4파 64,533 종료, 초록 1·2파(2파 고점 61,603) 후 초록 3파·주황 5파 하락. 61,603 돌파 시 대안 분홍 1·2파 반등 → 진입 구간(직접 계산), 64,533 돌파 시 무효"
+}
