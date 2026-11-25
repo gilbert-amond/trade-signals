@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261126-0356-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 59300,
+      "to": 59550,
+      "sizePct": 0.4
+    },
+    {
+      "from": 59550,
+      "to": 59800,
+      "sizePct": 0.4
+    },
+    {
+      "from": 59800,
+      "to": 60000,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 60700,
+  "targets": [
+    58636,
+    55106,
+    52900
+  ],
+  "invalidation": 60619,
+  "validUntil": "2026-11-26T00:56:00Z",
+  "sourceUrl": "https://eadn-wc05-13292829.nxedge.io/wp-content/uploads/2026/11/BTC-1-HOUR-11.25.2026-2.png",
+  "notes": "만료 임박 갱신(값 동일). 11.25 1H/4H 차트 숏 관점 유지, 03:15 고가 60,024로 버건디2 60,012 소폭 상회(2파 연장 가능), 60,619(초록2) 돌파 시 무효. 6H MA20 59,939·MA50 62,459 아래 하락 정렬"
+}
