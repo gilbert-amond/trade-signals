@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261125-1133-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 59300,
+      "to": 59550,
+      "sizePct": 0.4
+    },
+    {
+      "from": 59550,
+      "to": 59800,
+      "sizePct": 0.4
+    },
+    {
+      "from": 59800,
+      "to": 60000,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 60700,
+  "targets": [
+    58636,
+    55106,
+    52900
+  ],
+  "invalidation": 60619,
+  "validUntil": "2026-11-25T08:33:00Z",
+  "sourceUrl": "https://eadn-wc05-13292829.nxedge.io/wp-content/uploads/2026/11/BTC-1-HOUR-11.25.2026-2.png",
+  "notes": "11.25 1H/4H 차트: 주황4 64,533→핑크1 60,687·핑크2 61,603→초록1 59,366·초록2 60,619→버건디1 59,189·버건디2 60,012, 버건디3·초록3·핑크3 하락 관점. 진입·손절 직접 계산, 60,619(초록2) 돌파 시 무효"
+}
