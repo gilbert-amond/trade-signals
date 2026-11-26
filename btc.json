@@ -1,8 +1,32 @@
 {
-  "id": "wait-20261126-0921",
+  "id": "btc-20261126-0935-short",
   "symbol": "BTC-USD",
-  "direction": "wait",
-  "validUntil": "2026-11-26T06:21:00Z",
-  "sourceUrl": "https://eadn-wc05-13292829.nxedge.io/wp-content/uploads/2026/11/BTC-1-HOUR-11.25.2026-2.png",
-  "notes": "숏 손절 60,700 도달(15분봉 고점 61,126), 11.25 카운트 무효화 60,619(초록2) 돌파. 1H는 MA20·50 위·RSI 68 상승, 6H는 MA50 62,350 아래로 엇갈려 관망. 61,603 돌파 시 분홍 1-2 대안 확인"
+  "direction": "short",
+  "entries": [
+    {
+      "from": 61700,
+      "to": 62000,
+      "sizePct": 0.4
+    },
+    {
+      "from": 62000,
+      "to": 62500,
+      "sizePct": 0.4
+    },
+    {
+      "from": 62500,
+      "to": 63000,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 64700,
+  "targets": [
+    57208,
+    55106,
+    50450
+  ],
+  "invalidation": 64533,
+  "validUntil": "2026-11-26T06:35:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.26.2026.mp4",
+  "notes": "11.26 영상: 오렌지4 64,533 완료, 핑크1 57,208, 지금 핑크2 확장 플랫 반등(대안 핑크 D 삼각형). 핑크1 되돌림 .618~.786(61,735~62,965, 직접 계산)에서 숏, 64,533 위 무효"
 }
