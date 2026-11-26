@@ -1,0 +1,32 @@
+{
+  "id": "btc-20261126-1257-short",
+  "symbol": "BTC-USD",
+  "direction": "short",
+  "entries": [
+    {
+      "from": 60900,
+      "to": 61050,
+      "sizePct": 0.4
+    },
+    {
+      "from": 61050,
+      "to": 61250,
+      "sizePct": 0.4
+    },
+    {
+      "from": 61250,
+      "to": 61450,
+      "sizePct": 0.2
+    }
+  ],
+  "stopLoss": 61800,
+  "targets": [
+    60295,
+    57208,
+    55106
+  ],
+  "invalidation": 61734,
+  "validUntil": "2026-11-26T09:57:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.26.2026-2nd-Update.mp4",
+  "notes": "11.26 2nd Update: 분홍1 다이아고날 57,208로 수정, 분홍2 지그재그 61,526 완료, 분홍3 하락 시작. 61,526→60,295 되돌림 .5~.786(직접 계산)에서 숏, 61,734 위 무효"
+}
