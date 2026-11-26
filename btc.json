@@ -1,32 +1,8 @@
 {
-  "id": "btc-20261126-0757-short",
+  "id": "wait-20261126-0921",
   "symbol": "BTC-USD",
-  "direction": "short",
-  "entries": [
-    {
-      "from": 59300,
-      "to": 59550,
-      "sizePct": 0.4
-    },
-    {
-      "from": 59550,
-      "to": 59800,
-      "sizePct": 0.4
-    },
-    {
-      "from": 59800,
-      "to": 60000,
-      "sizePct": 0.2
-    }
-  ],
-  "stopLoss": 60700,
-  "targets": [
-    58636,
-    55106,
-    52900
-  ],
-  "invalidation": 60619,
-  "validUntil": "2026-11-26T04:57:00Z",
+  "direction": "wait",
+  "validUntil": "2026-11-26T06:21:00Z",
   "sourceUrl": "https://eadn-wc05-13292829.nxedge.io/wp-content/uploads/2026/11/BTC-1-HOUR-11.25.2026-2.png",
-  "notes": "만료 임박 갱신(값 동일). 11.25 1H/4H 차트 숏 관점 유지, 24h 고가 60,428로 60,619(초록2) 미돌파. 1H는 MA20 59,103·MA50 59,722 위 반등 중이나 6H MA50 62,501 아래 하락 정렬"
+  "notes": "숏 손절 60,700 도달(15분봉 고점 61,126), 11.25 카운트 무효화 60,619(초록2) 돌파. 1H는 MA20·50 위·RSI 68 상승, 6H는 MA50 62,350 아래로 엇갈려 관망. 61,603 돌파 시 분홍 1-2 대안 확인"
 }
