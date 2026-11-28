@@ -1,8 +1,8 @@
 {
-  "id": "wait-20261128-2152",
+  "id": "wait-20261129-0159",
   "symbol": "BTC-USD",
   "direction": "wait",
-  "validUntil": "2026-11-28T18:52:00Z",
-  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-11.28.2026.mp4",
-  "notes": "11.28: 빨강 4파 삼각형 분홍 d파 하락 중(57,208 유지), e파 반등(62,140 아래) 후 빨강 5파 하락 관점. 59,000~59,400 횡보, d 저점·e 반등 미확인이라 진입·손절 불가, 관망 연장"
+  "validUntil": "2026-11-29T00:59:00Z",
+  "sourceUrl": "https://cwcount.com/wp-content/uploads/2026/11/BTC-1-HOUR-11.28.2026-2.png",
+  "notes": "11.28 차트: 주황 4파 삼각형 분홍 d파 진행(57,208 유지), e파 반등(62,140 아래) 후 주황 5파 하락 관점. 59,100~59,600 횡보, d 저점·e 반등 미확인이라 진입·손절 불가, 관망 연장"
 }
